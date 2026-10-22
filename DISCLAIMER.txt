@@ -1,0 +1,41 @@
+PRO 800 Firmware Update Generator
+Disclaimer of Warranty and Limitation of Liability
+
+Copyright (c) 2026 MUSIC TRIBE. All rights reserved.
+
+1. NO WARRANTY
+   This software and the files it produces are provided "AS IS", without
+   warranty of any kind, express or implied, including but not limited to
+   the warranties of merchantability, fitness for a particular purpose,
+   and noninfringement. The entire risk as to the quality and performance
+   of the software is with you.
+
+2. FIRMWARE UPDATES
+   This tool packages firmware images for the Behringer PRO 800. The device
+   is programmed by a write-protected bootloader that does not overwrite
+   itself, so an incorrect, corrupted, or interrupted update does not render
+   the device permanently inoperable: it can be recovered by loading a
+   valid firmware image. Even so, you are responsible for verifying that any
+   image you create or install is correct and appropriate for your device.
+
+3. LIMITATION OF LIABILITY
+   In no event shall Music Tribe be liable for any claim, damages, or other
+   liability, whether in an action of contract, tort, or otherwise, arising
+   from, out of, or in connection with the software or the use or other
+   dealings in the software. This includes, without limitation, any direct,
+   indirect, incidental, special, exemplary, or consequential damages, loss
+   of data, device damage, or loss of use, even if advised of the
+   possibility of such damage.
+
+4. USE AT YOUR OWN RISK
+   By downloading, running, or using this software, you accept full
+   responsibility for the outcome. If you do not agree, do not use it.
+
+5. TRADEMARKS
+   This is an official tool provided by Music Tribe. "Behringer" and
+   "PRO 800" are trademarks of Music Tribe and/or its affiliates.
+
+6. THIRD-PARTY TERMS
+   Your use of the device and its firmware may be subject to separate terms
+   from the device manufacturer. You are responsible for complying with
+   those terms and with any applicable laws in your jurisdiction.
