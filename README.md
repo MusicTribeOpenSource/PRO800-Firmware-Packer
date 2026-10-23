@@ -1,6 +1,10 @@
 # PRO800-Firmware-Packer
 This tool can be used create custom Firmware update files that can be loaded to the Behringer PRO800
 
+## Schematics
+The folder **Schematics** contains the schematics of the MAIN PCB. All the info of the 
+MCU port usage and analog control can be found there. 
+
 ## MCU Binary Configuration
 
 The MCU is an STMicroelectronics STM32F446. The reset handler must be linked to
