@@ -3,7 +3,7 @@ This tool can be used create custom Firmware update files that can be loaded to 
 
 ## Schematics
 The folder **Schematics** contains the schematics of the MAIN PCB. All the info about the 
-MCU#s ports usage and analog control can be found there. 
+MCU's ports usage and analog control can be found there. 
 
 ## MCU Binary Configuration
 
